@@ -5,7 +5,7 @@ navname: Screenshots
 
 <link href="{{ site.baseurl }}/assets/micromodal.custom.css" rel="stylesheet">
 
-# Screenshots
+# Những bức ảnh gợi nhớ cho ta về tuổi thơ.
 
 {% assign imagenum = 0 %}
 
