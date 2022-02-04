@@ -16,7 +16,7 @@ Phiên bản phù hợp để chơi là 1.17.x ở cả hai phiên bản Bedrock
 
 # Hệ thống
 
-RiluxSMP Đang sử dụng máy chủ Vật Lý được đặt tại nhà riêng
+RiluxSMP Đang sử dụng máy chủ Vật Lý được đặt tại nhà riêng.
 Mang theo bộ não Xeon X5670 và 16GB Ram.
 
 
